@@ -1,2 +1,2 @@
 # bj-scrimba
-a simple blackjack program from scrimba tutorial
+a simple unfinished blackjack program from scrimba tutorial(no media queries)
