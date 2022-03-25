@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+  font-weight: bold;
+  background: #bdc3c7;
+  background: linear-gradient(to right,#bdc3c7, #2c3e50);
+}
+
+/* ===================== */
+
+.container {
+  border: 3px solid yellow;
+  width: 70%;
+  height: 500px;
+  padding: 30px;
+  margin: 80px auto;
+  background-image: url("../img/table.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 2.5em;
+}
+
+button {
+  padding: 10px;
+  background-color: goldenrod;
+  border-radius: 3px;
+  display: block;
+  margin: 10px auto;
+  color: #016f32;
+  width: 160px;
+  font-size: 14px;
+  font-weight: bold;
+}
+button:hover {
+  transform: scale(1.1);
+}
+p {
+  font-size: 1.2em;
+}
